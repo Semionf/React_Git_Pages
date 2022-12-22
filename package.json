@@ -1,6 +1,6 @@
 {
   "name": "gitpages",
-  "homepage" : "http://Semionf.github.io/React_Git_Pages"
+  "homepage" : "http://Semionf.github.io/React_Git_Pages",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
