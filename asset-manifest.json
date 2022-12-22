@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Git_Pages/static/css/main.073c9b0a.css",
+    "main.js": "/React_Git_Pages/static/js/main.8608c9a3.js",
+    "index.html": "/React_Git_Pages/index.html",
+    "main.073c9b0a.css.map": "/React_Git_Pages/static/css/main.073c9b0a.css.map",
+    "main.8608c9a3.js.map": "/React_Git_Pages/static/js/main.8608c9a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8608c9a3.js"
+  ]
+}
